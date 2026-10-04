@@ -2,7 +2,8 @@ Grounded-DI-Riemann_Hypothesis_Research_Moving-Endpoint_Obstruction_to_Global_Se
 
 # RH-001H — Moving-Endpoint Obstruction
 
-**MathWise / Grounded DI LLC**  
+**MathWise / Grounded DI LLC**
+**Mark S. Weinstein**
 **Research checkpoint — October 4, 2026**
 
 ## Status
