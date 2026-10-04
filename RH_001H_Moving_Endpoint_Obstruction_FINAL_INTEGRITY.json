@@ -1,0 +1,36 @@
+{
+  "utc": "2026-10-04T03:42:05.215349+00:00",
+  "verdict": "Byte integrity; not mathematical correctness",
+  "zip": {
+    "filename": "RH_001H_Moving_Endpoint_Obstruction_2026-10-04.zip",
+    "bytes": 923899,
+    "sha256": "0a395c36b61a0a8f7c791f4d3f1f0c78b999cb543a0cf8d2dfb3705dbba1cb0b",
+    "CRC": "PASS"
+  },
+  "manifest": {
+    "payload_files": 75,
+    "sha256": "2b4c319c388e63be6467677037b755ee1f7ca178141a4f00074f8d9dc4108751",
+    "all_payloads_match": true
+  },
+  "pdf": {
+    "filename": "RH_001H_Moving_Endpoint_Obstruction_2026-10-04.pdf",
+    "bytes": 373016,
+    "pages": 15,
+    "sha256": "e2825bbcb14e89aa51c5ee2d86d215838fa4683901e0244d664b75ca6f1fb69b",
+    "same_bytes_inside_zip": true
+  },
+  "sidecar": {
+    "filename": "RH_001H_Moving_Endpoint_Obstruction_2026-10-04.zip.sha256.txt",
+    "sha256": "e405ee1782b79e3f34178d7bbd28d362bf237e62cf7c33f3f495cf30204e58ec"
+  },
+  "incoming_zip_sha256": "aa03fb1c204d622857f89804a05d5e5f4580d11bc291410dcff7dde332dc273c",
+  "finite_replay": "PASS; regenerated mathematical certificate and separate exact sign reconstruction",
+  "new_analytic_result": "Existential negative second tails at arbitrarily large real heights; no explicit negative height supplied.",
+  "limitations": [
+    "Universal proof not formal-kernel verified",
+    "No independent human/agent review",
+    "No new Arb V2 evaluation",
+    "No full retrospective [33,34] gate",
+    "No RH proof or disproof"
+  ]
+}
