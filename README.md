@@ -1,9 +1,7 @@
-Grounded-DI-Riemann_Hypothesis_Research_Moving-Endpoint_Obstruction_to_Global_Second-Tail_Positivity/
-
 # RH-001H — Moving-Endpoint Obstruction
 
-**MathWise / Grounded DI LLC**
-**Mark S. Weinstein**
+**MathWise / Grounded DI LLC**\
+**Mark S. Weinstein**\
 **Research checkpoint — October 4, 2026**
 
 ## Status
@@ -186,19 +184,19 @@ The remaining route must handle the signed compact contribution and the separate
 
 Frozen review artifact (the PDF itself is labeled private review):
 
-`RH_001H_Moving_Endpoint_Obstruction_2026-10-04.pdf`
+[RH_001H_Moving_Endpoint_Obstruction_2026-10-04.pdf](RH_001H_Moving_Endpoint_Obstruction_2026-10-04.pdf)
 
 Frozen successor archive:
 
-`RH_001H_Moving_Endpoint_Obstruction_2026-10-04.zip`
+[RH_001H_Moving_Endpoint_Obstruction_2026-10-04.zip](RH_001H_Moving_Endpoint_Obstruction_2026-10-04.zip)
 
 External SHA-256 sidecar:
 
-`RH_001H_Moving_Endpoint_Obstruction_2026-10-04.zip.sha256.txt`
+[RH_001H_Moving_Endpoint_Obstruction_2026-10-04.zip.sha256.txt](RH_001H_Moving_Endpoint_Obstruction_2026-10-04.zip.sha256.txt)
 
 Machine-readable final integrity record:
 
-`RH_001H_Moving_Endpoint_Obstruction_FINAL_INTEGRITY.json`
+[RH_001H_Moving_Endpoint_Obstruction_FINAL_INTEGRITY.json](RH_001H_Moving_Endpoint_Obstruction_FINAL_INTEGRITY.json)
 
 The successor contains the 15-page proof/review, LaTeX source, exact-sign implementations, replay commands and outputs, selected mutation/adversarial checks, dependency and provenance records, source snapshots, and a 75-file payload manifest.
 
@@ -284,4 +282,10 @@ For preservation purposes, the full predecessor archive may be retained separate
 **Date:** 2026-10-04  
 **RH status:** unresolved
 
--Mark S. Weinstein, Grounded DI LLC 
+-Mark S. Weinstein, Grounded DI LLC
+
+## Rights and Contact
+
+Copyright © 2026 Grounded DI LLC for its original materials. Third-party sources retain their respective rights. No open-source license or additional reuse permission is granted by this README.
+
+Commercial licensing, technical evaluation, and integration inquiries: [mark@groundeddi.com](mailto:mark@groundeddi.com).
