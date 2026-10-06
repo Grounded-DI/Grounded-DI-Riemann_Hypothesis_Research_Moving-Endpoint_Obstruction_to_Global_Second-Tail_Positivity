@@ -180,6 +180,10 @@ Accordingly, this checkpoint:
 
 The remaining route must handle the signed compact contribution and the separate \(V_2(0)\) boundary term rather than assuming pointwise second-tail positivity everywhere.
 
+## Related records
+
+The [MathWise repository](https://github.com/Grounded-DI/MathWise) maintains the neighboring-zero certificate and replay record, including related RH certificate work. This repository remains the public record for the RH-001H moving-endpoint obstruction checkpoint. The records are related but distinct.
+
 ## Evidence package
 
 Frozen review artifact (the PDF itself is labeled private review):
