@@ -180,6 +180,12 @@ Accordingly, this checkpoint:
 
 The remaining route must handle the signed compact contribution and the separate \(V_2(0)\) boundary term rather than assuming pointwise second-tail positivity everywhere.
 
+## October 8 update — beta–delta interface audit
+
+A Grounded DI X post reports that MathWise’s audit of a proposed shifted (`beta8e`) RH argument narrowed its remaining issue to the beta–delta interface. Under `7/8 ≤ β + 8e`, the prior `Δ = β − 7/8` may be negative; the post says a replay appears to require `Δₑ = β + 8e − 7/8`, moments at `Δₑ`, and `e ≤ 1/800000`. It states that no shifted zero-free theorem has been proven.
+
+This update concerns the proposed extension. It does not alter the October 4 RH-001H moving-endpoint findings above, claim that the original `7/8` theorem is false, or prove or disprove RH. See the [archived post and source image](updates/2026-10-08-beta-delta-interface/README.md) and the [October 2026 public record](https://github.com/Grounded-DI/Grounded-DI-Public-Record-2026-10).
+
 ## Related records
 
 The [MathWise repository](https://github.com/Grounded-DI/MathWise) maintains the neighboring-zero certificate and replay record, including related RH certificate work. This repository remains the public record for the RH-001H moving-endpoint obstruction checkpoint. The records are related but distinct.
