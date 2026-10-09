@@ -299,3 +299,8 @@ For preservation purposes, the full predecessor archive may be retained separate
 Copyright © 2026 Grounded DI LLC for its original materials. Third-party sources retain their respective rights. No open-source license or additional reuse permission is granted by this README.
 
 Commercial licensing, technical evaluation, and integration inquiries: [mark@groundeddi.com](mailto:mark@groundeddi.com).
+
+
+## Curated certificate collection
+
+The RH-001H checkpoints and beta-delta interface audit in this repository are indexed in [MathWise Deterministic Replay Certificates](https://github.com/Grounded-DI/MathWise-Deterministic-Replay-Certificates). This research repository remains canonical for the RH records and their evidence packages.
