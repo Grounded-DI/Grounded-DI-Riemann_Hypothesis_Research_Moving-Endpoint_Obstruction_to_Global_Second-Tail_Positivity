@@ -10,9 +10,7 @@
 
 This checkpoint records an analytic existence argument showing that the actual-theta second tail is **negative at some endpoints at arbitrarily large real heights**.
 
-It does **not** prove or disprove the Riemann Hypothesis.
-
-It also does **not** invalidate the immediately preceding unbounded-height positive cone. The two results occupy different endpoint regions.
+The Riemann Hypothesis remains unresolved in this record. The immediately preceding unbounded-height positive cone and the new negative endpoints occupy different regions.
 
 ## Main result
 
@@ -57,7 +55,7 @@ V_{2,t}(R)
 t^{63/16}e^{-\pi t/2}.
 \]
 
-This is an **existence theorem**. The package does not provide a directly evaluated negative pair \((t,R)\), a first negative height, or an effective first recurrence threshold.
+This **existence theorem** gives no directly evaluated negative pair \((t,R)\), first negative height, or effective first recurrence threshold.
 
 ## What changed
 
@@ -85,7 +83,7 @@ which lies strictly below the positive cone. Their radial separation from the co
 \frac12\log 280.
 \]
 
-So there is no contradiction:
+The two regions are:
 
 | Region | Current result |
 |---|---|
@@ -153,7 +151,7 @@ D\in
 
 A continuous-time Fourier recurrence argument then shows that the required finite prime-phase neighborhood occurs at arbitrarily large real heights. The uniform asymptotic error transfers that strict finite sign to the actual second tail.
 
-The result is analytic plus exact finite arithmetic. It is not based on a floating-point negative sample of \(V_2\).
+The result combines analytic reasoning with exact finite arithmetic.
 
 ## Relationship to RH
 
@@ -168,7 +166,7 @@ The source record's second-tail reformulation is
 \sinh(2xr)V_{2,t}(r)\,dr.
 \]
 
-A negative value of \(V_{2,t}(R)\) at some positive endpoint does **not** determine the sign of this weighted aggregate.
+The sign of the weighted aggregate remains unresolved by a negative value of \(V_{2,t}(R)\) at an individual positive endpoint.
 
 Accordingly, this checkpoint:
 
